@@ -1,0 +1,24 @@
+false
+0
+banana
+banana
+null
+10
+0
+10.0
+false
+1
+mobile
+phone
+null
+1
+1
+2000.0
+false
+2
+orange juice
+juice
+null
+1
+2
+5.0

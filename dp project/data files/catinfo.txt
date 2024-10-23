@@ -1,0 +1,9 @@
+0
+food
+0
+1
+electronics
+1
+2
+drinks
+2
