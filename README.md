@@ -1,1 +1,1 @@
-This project simulates an online marketplace using efficient data structures to handle various operations such as product listing, user management, and transaction processing. The system allows buyers and sellers to interact in a dynamic and scalable environment.
+This java project simulates an online marketplace using efficient data structures to handle various operations such as product listing, user management, and transaction processing. The system allows buyers and sellers to interact in a dynamic and scalable environment.
